@@ -1,0 +1,132 @@
+{
+  "_-fontsource-variable-03b36c1e.Bm4GP-ls.css": {
+    "file": "assets/static/-fontsource-variable-03b36c1e.Bm4GP-ls.css",
+    "src": "_-fontsource-variable-03b36c1e.Bm4GP-ls.css"
+  },
+  "_chunk-6MJ1CUYa.js": {
+    "file": "assets/chunks/chunk-6MJ1CUYa.js",
+    "name": "Loading",
+    "imports": [
+      "_chunk-CXZvPxtZ.js"
+    ],
+    "css": [
+      "assets/static/-fontsource-variable-03b36c1e.Bm4GP-ls.css",
+      "assets/static/pages_globals-4053e8d3.D7CLIlBr.css"
+    ],
+    "assets": [
+      "assets/static/inter-cyrillic-ext-wght-normal.BOeWTOD4.woff2",
+      "assets/static/inter-cyrillic-wght-normal.DqGufNeO.woff2",
+      "assets/static/inter-greek-ext-wght-normal.DlzME5K_.woff2",
+      "assets/static/inter-greek-wght-normal.CkhJZR-_.woff2",
+      "assets/static/inter-vietnamese-wght-normal.CBcvBZtf.woff2",
+      "assets/static/inter-latin-ext-wght-normal.DO1Apj_S.woff2",
+      "assets/static/inter-latin-wght-normal.Dx4kXJAl.woff2"
+    ]
+  },
+  "_chunk-CXZvPxtZ.js": {
+    "file": "assets/chunks/chunk-CXZvPxtZ.js",
+    "name": "renderPageClient"
+  },
+  "_pages_globals-4053e8d3.D7CLIlBr.css": {
+    "file": "assets/static/pages_globals-4053e8d3.D7CLIlBr.css",
+    "src": "_pages_globals-4053e8d3.D7CLIlBr.css"
+  },
+  "assets/calendar.webp": {
+    "file": "assets/static/calendar.Dhf7u2SZ.webp",
+    "src": "assets/calendar.webp"
+  },
+  "assets/picture.jpg": {
+    "file": "assets/static/picture.BTYxm9-R.jpg",
+    "src": "assets/picture.jpg"
+  },
+  "assets/pictures/eledeejey.jpg": {
+    "file": "assets/static/eledeejey.CEMGgwGI.jpg",
+    "src": "assets/pictures/eledeejey.jpg"
+  },
+  "assets/pictures/file-sharing-cover.png": {
+    "file": "assets/static/file-sharing-cover.pPJ9JuX3.png",
+    "src": "assets/pictures/file-sharing-cover.png"
+  },
+  "assets/pictures/nuxt-screenshare.png": {
+    "file": "assets/static/nuxt-screenshare.D7aeKaHZ.png",
+    "src": "assets/pictures/nuxt-screenshare.png"
+  },
+  "assets/pictures/raytrace.png": {
+    "file": "assets/static/raytrace.DjV5NaYF.png",
+    "src": "assets/pictures/raytrace.png"
+  },
+  "assets/pwr.jpg": {
+    "file": "assets/static/pwr.CAJ2artX.jpg",
+    "src": "assets/pwr.jpg"
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-cyrillic-ext-wght-normal.woff2": {
+    "file": "assets/static/inter-cyrillic-ext-wght-normal.BOeWTOD4.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-cyrillic-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-cyrillic-wght-normal.woff2": {
+    "file": "assets/static/inter-cyrillic-wght-normal.DqGufNeO.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-cyrillic-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-greek-ext-wght-normal.woff2": {
+    "file": "assets/static/inter-greek-ext-wght-normal.DlzME5K_.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-greek-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-greek-wght-normal.woff2": {
+    "file": "assets/static/inter-greek-wght-normal.CkhJZR-_.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-greek-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-latin-ext-wght-normal.woff2": {
+    "file": "assets/static/inter-latin-ext-wght-normal.DO1Apj_S.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-latin-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2": {
+    "file": "assets/static/inter-latin-wght-normal.Dx4kXJAl.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-latin-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/inter/files/inter-vietnamese-wght-normal.woff2": {
+    "file": "assets/static/inter-vietnamese-wght-normal.CBcvBZtf.woff2",
+    "src": "node_modules/@fontsource-variable/inter/files/inter-vietnamese-wght-normal.woff2"
+  },
+  "node_modules/vike/dist/client/runtime-client-routing/entry.js": {
+    "file": "assets/entries/entry-client-routing.Dr9-_FiC.js",
+    "name": "entries/entry-client-routing",
+    "src": "node_modules/vike/dist/client/runtime-client-routing/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_chunk-CXZvPxtZ.js"
+    ],
+    "dynamicImports": [
+      "virtual:vike:page-entry:client:/pages/_error",
+      "virtual:vike:page-entry:client:/pages/index"
+    ]
+  },
+  "virtual:vike:page-entry:client:/pages/_error": {
+    "file": "assets/entries/pages_error.CS8RX7o4.js",
+    "name": "entries/pages/_error",
+    "src": "virtual:vike:page-entry:client:/pages/_error",
+    "isEntry": true,
+    "imports": [
+      "_chunk-CXZvPxtZ.js",
+      "_chunk-6MJ1CUYa.js"
+    ]
+  },
+  "virtual:vike:page-entry:client:/pages/index": {
+    "file": "assets/entries/pages_index.DVcHdhk4.js",
+    "name": "entries/pages/index",
+    "src": "virtual:vike:page-entry:client:/pages/index",
+    "isEntry": true,
+    "imports": [
+      "_chunk-CXZvPxtZ.js",
+      "_chunk-6MJ1CUYa.js"
+    ],
+    "assets": [
+      "assets/static/picture.BTYxm9-R.jpg",
+      "assets/static/calendar.Dhf7u2SZ.webp",
+      "assets/static/pwr.CAJ2artX.jpg",
+      "assets/static/raytrace.DjV5NaYF.png",
+      "assets/static/eledeejey.CEMGgwGI.jpg",
+      "assets/static/file-sharing-cover.pPJ9JuX3.png",
+      "assets/static/nuxt-screenshare.D7aeKaHZ.png"
+    ]
+  }
+}
